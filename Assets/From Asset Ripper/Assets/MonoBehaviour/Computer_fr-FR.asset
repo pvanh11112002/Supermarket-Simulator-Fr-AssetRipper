@@ -1,0 +1,464 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Computer_fr-FR
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: fr-FR
+  m_SharedData: {fileID: 11400000, guid: 69c56737b186ea04d80478f924e7c676, type: 2}
+  m_Metadata:
+    m_Items:
+      Array: []
+  m_TableData:
+  - m_Id: 61639860224
+    m_Localized: MARCHÉ
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 197216542720
+    m_Localized: GESTION
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 470118932480
+    m_Localized: Produits
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 577983848448
+    m_Localized: Fournitures
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 781776691200
+    m_Localized: Rechercher...
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 1026195562496
+    m_Localized: "Aucun produit trouvé\r"
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 3024026443776
+    m_Localized: Présentoir
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 3199109275648
+    m_Localized: Prix à l’Unité
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 3406232395776
+    m_Localized: Quantité
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 3507449339904
+    m_Localized: Total
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 3613896581120
+    m_Localized: "Ajouter au Panier\n"
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5234273656832
+    m_Localized: PANIER
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5360497041408
+    m_Localized: Commande
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5455066013696
+    m_Localized: Livraison
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5744082919424
+    m_Localized: Argent restant
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5821308444672
+    m_Localized: Argent après achat
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5917668384768
+    m_Localized: Acheter
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 6003437707264
+    m_Localized: Fermé après 21h
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 6173869056000
+    m_Localized: Nom du produit
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 6309261189120
+    m_Localized: Quantité
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 6792403066880
+    m_Localized: Licences
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 6891124400128
+    m_Localized: Factures
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 7016081104896
+    m_Localized: Agrandir
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 7109135933440
+    m_Localized: Embaucher
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 7217348976640
+    m_Localized: Stockage
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 7470303256576
+    m_Localized: Customisation
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 7670732267520
+    m_Localized: Achetez cette licence pour pouvoir vendre les produits ci-dessous
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 8182085033984
+    m_Localized: FACTURES
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 8316604751872
+    m_Localized: LOYERS
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 8516555612160
+    m_Localized: Facture
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 8599388921856
+    m_Localized: Date facture
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 8701742522368
+    m_Localized: Date d'Échéance
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 9127011393536
+    m_Localized: Payer
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 9432323170304
+    m_Localized: Achetez cette section pour agrandir votre supermarché
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 9629308657664
+    m_Localized: '- Agrandir par <color=#81FFBC>4x4m</color>'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 447444047732736
+    m_Localized: Paiement
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 448184405303296
+    m_Localized: Caisse Enregistreuse
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 448310360252416
+    m_Localized: Reçu
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 448580662173696
+    m_Localized: Rendu Monnaie
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 449539563954176
+    m_Localized: Donner...
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 451108313341952
+    m_Localized: TOUTES LES FACTURES SONT PAYÉES
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 449985024204800
+    m_Localized: Pas Assez d'Argent
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 451224453619712
+    m_Localized: TOUS LES LOYERS SONT PAYÉS
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 451683314671616
+    m_Localized: TOUTES LES LICENCES ONT ÉTÉ ACHETÉES
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 452323482902528
+    m_Localized: 'Acheté : {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 452700798296064
+    m_Localized: PROCHAINEMENT
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 459383335395328
+    m_Localized: 'Facture : {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 459502831116288
+    m_Localized: 'Loyer : {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 4697101196173312
+    m_Localized: 'Employés : {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 1808337851490304
+    m_Localized: 'Prêt : {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 1808600498806784
+    m_Localized: TOUTES LES ÉCHÉANCES SONT PAYÉES
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5028605617086464
+    m_Localized: D'AUTRES EMPLOYÉS SERONT BIENTÔT DISPONIBLE
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5028907401453568
+    m_Localized: Caissier {0}
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5029127048765440
+    m_Localized: Paiements automatiques
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5029385090736128
+    m_Localized: Embaucher
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5029472638443520
+    m_Localized: Licencier
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5030805105909760
+    m_Localized: 'Salaire quotidien : {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5030965483511808
+    m_Localized: 'Coût à L''Embauche : {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5031201052401664
+    m_Localized: 'Paiement effectué : {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5040377703014400
+    m_Localized: L'ESPACE DE STOCKAGE EST VERROUILLÉ
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5040604530974720
+    m_Localized: STOCKAGE ACHETÉ
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5040758667452416
+    m_Localized: L'entrepôt se situe à côté de votre magasin.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5040951295057920
+    m_Localized: DES EXTENSIONS DE STOCKAGE ET PLUS DE CONTENU SERONT BIENTÔT DISPONIBLES
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5041278396243968
+    m_Localized: BANQUE
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5041422139236352
+    m_Localized: Prêts
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5041541882421248
+    m_Localized: Paiement
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5041997174120448
+    m_Localized: Verrouillé
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5042342713466880
+    m_Localized: Intérêt Quotidien
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5042467322044416
+    m_Localized: Montant total du prêt
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5042571818934272
+    m_Localized: Paiement Quotidien
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5042716098797568
+    m_Localized: Durée du Prêt
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5043185596604416
+    m_Localized: Prendre un Prêt
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5043319294238720
+    m_Localized: Déjà Pris
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5043468737290240
+    m_Localized: Paiement Restant
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5043591932387328
+    m_Localized: Nombre de Paiements Restants
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5043708387237888
+    m_Localized: Montant du Remboursement Anticipé
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5043858761424896
+    m_Localized: Remboursement Anticipé
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5044323091849216
+    m_Localized: Pénalités de Retard de Paiement
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5045498658791424
+    m_Localized: DÉTAILS DU PRÊT
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5045639847452672
+    m_Localized: Prêts Contractés
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5045829278998528
+    m_Localized: Paiements Restants
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5046186134577152
+    m_Localized: Montant total de vos prêts
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5055601453670400
+    m_Localized: Loyer
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 1813017847504896
+    m_Localized: Remboursement
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 10475959933575168
+    m_Localized: TOUTES LES SECTIONS ONT ÉTÉ ACHETÉES
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 12217935603277824
+    m_Localized: Restocker {0}
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 12218486961315840
+    m_Localized: 'Rack acheté : {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 12218350193451008
+    m_Localized: Réappro. les étagères
+    m_Metadata:
+      m_Items:
+        Array: []
+  references:
+    version: 2
+    RefIds: []

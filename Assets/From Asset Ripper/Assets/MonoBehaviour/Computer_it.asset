@@ -1,0 +1,464 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Computer_it
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: 69c56737b186ea04d80478f924e7c676, type: 2}
+  m_Metadata:
+    m_Items:
+      Array: []
+  m_TableData:
+  - m_Id: 61639860224
+    m_Localized: MERCATO
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 197216542720
+    m_Localized: GESTIONE
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 470118932480
+    m_Localized: Prodotti
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 577983848448
+    m_Localized: Arredamento
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 781776691200
+    m_Localized: "Cerca...\r"
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 1026195562496
+    m_Localized: Nessun prodotto trovato
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 3024026443776
+    m_Localized: Visualizza
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 3199109275648
+    m_Localized: Prezzo Unitario
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 3406232395776
+    m_Localized: Importo
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 3507449339904
+    m_Localized: Totale
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 3613896581120
+    m_Localized: Aggiungi Al Carrello
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5234273656832
+    m_Localized: CARRELLO
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5360497041408
+    m_Localized: Ordine
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5455066013696
+    m_Localized: Spedizione
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5744082919424
+    m_Localized: Importo
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5821308444672
+    m_Localized: Resto
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5917668384768
+    m_Localized: Acquista
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 6003437707264
+    m_Localized: Chiuso dopo le 9PM
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 6173869056000
+    m_Localized: Nome prodotto
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 6309261189120
+    m_Localized: Quantità
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 6792403066880
+    m_Localized: Licenze
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 6891124400128
+    m_Localized: Fatture
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 7016081104896
+    m_Localized: Sviluppo
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 7109135933440
+    m_Localized: Assunzione
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 7217348976640
+    m_Localized: Magazzino
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 7470303256576
+    m_Localized: Personalizzazione
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 7670732267520
+    m_Localized: Acquista questa licenza per riuscire a vendere questi prodotti
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 8182085033984
+    m_Localized: FATTURE
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 8316604751872
+    m_Localized: AFFITTO
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 8516555612160
+    m_Localized: Fattura
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 8599388921856
+    m_Localized: Data Fattura
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 8701742522368
+    m_Localized: Data di Scadenza
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 9127011393536
+    m_Localized: Paga
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 9432323170304
+    m_Localized: Acquista questa sezione per espandere il tuo supermercato
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 9629308657664
+    m_Localized: -Espandi di <color=#81FFBC>4x4m</color>
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 447444047732736
+    m_Localized: Cassa
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 448184405303296
+    m_Localized: Registratore di Cassa
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 448310360252416
+    m_Localized: Ricevuto
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 448580662173696
+    m_Localized: Resto
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 449539563954176
+    m_Localized: Dando...
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 449985024204800
+    m_Localized: Soldi Non Sufficienti
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 451108313341952
+    m_Localized: TUTTE LE FATTURE SONO STATE PAGATE
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 451224453619712
+    m_Localized: TUTTI GLI AFFITTI SONO STATI PAGATI
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 451683314671616
+    m_Localized: ACQUISTA TUTTE LE LICENZE
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 452323482902528
+    m_Localized: 'Acquistato: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 452700798296064
+    m_Localized: PROSSIMAMENTE
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 459383335395328
+    m_Localized: 'Fattura: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 459502831116288
+    m_Localized: 'Affitto: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 4697101196173312
+    m_Localized: 'Personale: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 1808337851490304
+    m_Localized: 'Prestito: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 1808600498806784
+    m_Localized: TUTTE LE RATE SONO STATE PAGATE
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 1813017847504896
+    m_Localized: Rimborso
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5028605617086464
+    m_Localized: PIÙ IMPIEGATI PROSSIMAMENTE
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5028907401453568
+    m_Localized: 'Cassiere: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5029127048765440
+    m_Localized: Cassa Automatizzata
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5029385090736128
+    m_Localized: Assumere
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5029472638443520
+    m_Localized: Licenziare
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5030805105909760
+    m_Localized: 'Salario Giornaliero: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5030965483511808
+    m_Localized: 'Costo di Assunzione: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5031201052401664
+    m_Localized: Pagamento Completo {0}
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5040377703014400
+    m_Localized: MAGAZZINO BLOCCATO
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5040604530974720
+    m_Localized: MAGAZZINO ACQUISTATO
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5040758667452416
+    m_Localized: Il magazzino é vicino al tuo negozio.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5040951295057920
+    m_Localized: ESPANSIONE DEL MAGAZZINO E ALTRI CONTENUTI PROSSIMAMENTE
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5041278396243968
+    m_Localized: BANCA
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5041422139236352
+    m_Localized: Prestiti
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5041541882421248
+    m_Localized: Pagamenti
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5041997174120448
+    m_Localized: BLOCCATO
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5042342713466880
+    m_Localized: Interesse Quotidiano
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5042467322044416
+    m_Localized: Rimborso
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5042571818934272
+    m_Localized: Pagamento Giornaliero
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5042716098797568
+    m_Localized: Durata Del Prestito
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5043185596604416
+    m_Localized: Richiedere Prestito
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5043319294238720
+    m_Localized: Già Preso
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5043468737290240
+    m_Localized: Pagamento Rimanente
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5043591932387328
+    m_Localized: Numero di Pagamenti Rimasti
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5043708387237888
+    m_Localized: Importo del Pagamento Anticipato
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5043858761424896
+    m_Localized: Pagare In Anticipo
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5044323091849216
+    m_Localized: Tassa per Ritardato Pagamento
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5045498658791424
+    m_Localized: DETTAGLI PRESTITO
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5045639847452672
+    m_Localized: Prestiti Presi
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5045829278998528
+    m_Localized: Pagamenti Rimasti
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5046186134577152
+    m_Localized: Debiti Totali
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5055601453670400
+    m_Localized: Affitto
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 10475959933575168
+    m_Localized: ACQUISTA TUTTE LE SEZIONI
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 12217935603277824
+    m_Localized: Rifornitore {0}
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 12218486961315840
+    m_Localized: 'Acquista lo scaffale: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 12218350193451008
+    m_Localized: Rifornisce gli scaffali
+    m_Metadata:
+      m_Items:
+        Array: []
+  references:
+    version: 2
+    RefIds: []

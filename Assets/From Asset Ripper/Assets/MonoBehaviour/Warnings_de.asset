@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Warnings_de
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 7c7e7164f7ed6cc4286d5681be36e4bf, type: 2}
+  m_Metadata:
+    m_Items:
+      Array: []
+  m_TableData:
+  - m_Id: 35312214016
+    m_Localized: Ein Kunde wartet an der Kasse
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 301356916736
+    m_Localized: Du verkaufst ein Produkt, ohne den Preis festgelegt zu haben
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 8077298737152
+    m_Localized: Neue Produkte sind verfügbar
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 8354919718912
+    m_Localized: Der Marktpreis hat sich für folgende Produkte geändert
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 8604661161984
+    m_Localized: Siehe in den Computer für mehr Details
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 8903106863104
+    m_Localized: Automatisch bezahlt
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 9968103563264
+    m_Localized: Willkommen beim Supermarket Simulator!
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 10140464291840
+    m_Localized: "Du fängst mit einem kleinen Laden an und entwickelst dich zu einem großartigen Supermarkt. Kaufe zunächst <color=#6ED7FF>Waren</color> ein, die du verkaufen willst und <color=#6ED7FF>stelle</color> sie in die Regale. Vergiss nicht, die <color=#6ED7FF>Preise mit Gewinn festzusetzen</color>, um einen <color=#6ED7FF>Bankrott zu vermeiden</color>.\r\n\r\nViel Spaß!"
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 11763617996800
+    m_Localized: Du erhälst ab <color=#6ED7FF>heute täglich Rechnungen</color>. Stelle sicher, dass du <color=#6ED7FF>diese Rechnungen</color> über deinen Computer <color=#6ED7FF>bezahlst</color> bevor dem <color=#6ED7FF>Fälligkeitsdatum</color> ansonsten werden diese <color=#6ED7FF>automatisch</color> bezahlt.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 11632260784128
+    m_Localized: Tägliche Einnahmen
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 12470559547392
+    m_Localized: '<sprite=0>Je mehr elektrische Geräte, desto teurer die Rechnungen.'
+    m_Metadata:
+      m_Items:
+        Array: []
+  references:
+    version: 2
+    RefIds: []

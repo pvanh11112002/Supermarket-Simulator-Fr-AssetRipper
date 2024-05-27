@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Interaction Warnings_es-ES
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: es-ES
+  m_SharedData: {fileID: 11400000, guid: 964685d490158f14d9a927c9002310ec, type: 2}
+  m_Metadata:
+    m_Items:
+      Array: []
+  m_TableData:
+  - m_Id: 37115764736
+    m_Localized: '{0} Cambio insuficiente'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 17458958540800
+    m_Localized: 'Necesitas poner el producto en: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 17721383559168
+    m_Localized: '{0} Los productos tienen que ser iguales'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 17827390398464
+    m_Localized: '{0} El lugar está lleno'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 18038594576384
+    m_Localized: '{0} La caja está llena'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 18141375995904
+    m_Localized: '{0} No se puede tirar aquí'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 18336138502144
+    m_Localized: '{0} La caja no coincide con el tamaño'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 3309744060473344
+    m_Localized: '{0}Importe del pago incorrecto'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 9096696135262208
+    m_Localized: '{0} La estantería está llena'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 11765365181644800
+    m_Localized: '{0} No se puede eliminar la etiqueta cuando hay un producto'
+    m_Metadata:
+      m_Items:
+        Array: []
+  references:
+    version: 2
+    RefIds: []

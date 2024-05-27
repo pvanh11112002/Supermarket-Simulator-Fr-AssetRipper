@@ -1,0 +1,464 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Computer_tr
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: tr
+  m_SharedData: {fileID: 11400000, guid: 69c56737b186ea04d80478f924e7c676, type: 2}
+  m_Metadata:
+    m_Items:
+      Array: []
+  m_TableData:
+  - m_Id: 61639860224
+    m_Localized: TOPTANCI
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 197216542720
+    m_Localized: YÖNETIM
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 470118932480
+    m_Localized: Ürünler
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 577983848448
+    m_Localized: Mobilyalar
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 781776691200
+    m_Localized: Arama...
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 1026195562496
+    m_Localized: Ürün bulunamadı
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 3024026443776
+    m_Localized: Dolap
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 3199109275648
+    m_Localized: Adet Fiyatı
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 3406232395776
+    m_Localized: Adet
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 3507449339904
+    m_Localized: Toplam
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 3613896581120
+    m_Localized: Sepete Ekle
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5234273656832
+    m_Localized: SEPET
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5360497041408
+    m_Localized: Siparis
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5455066013696
+    m_Localized: Kargo
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5744082919424
+    m_Localized: Bakiye
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5821308444672
+    m_Localized: Kalan
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5917668384768
+    m_Localized: Satın Al
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 6003437707264
+    m_Localized: Aksam 9'dan sonra kapalı
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 6173869056000
+    m_Localized: Ürün adı
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 6309261189120
+    m_Localized: Birim
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 6792403066880
+    m_Localized: Lisanslar
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 6891124400128
+    m_Localized: Faturalar
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 7016081104896
+    m_Localized: Büyüme
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 7109135933440
+    m_Localized: Ise Alım
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 7217348976640
+    m_Localized: Depo
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 7470303256576
+    m_Localized: Özellestirme
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 7670732267520
+    m_Localized: Asagıdaki ürünleri satmak için bu lisansı satın alın
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 8182085033984
+    m_Localized: FATURALAR
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 8316604751872
+    m_Localized: KIRALAR
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 8516555612160
+    m_Localized: Fatura
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 8599388921856
+    m_Localized: Fatura Tarihi
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 8701742522368
+    m_Localized: Son Ödeme Tarihi
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 9127011393536
+    m_Localized: Öde
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 9432323170304
+    m_Localized: Bu alanı alarak süpermarketini genislet
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 9629308657664
+    m_Localized: '- <color=#81FFBC>4x4m</color> genislet'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 447444047732736
+    m_Localized: Alısveris
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 448184405303296
+    m_Localized: Kasa
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 448310360252416
+    m_Localized: Alındı
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 448580662173696
+    m_Localized: Para üstü
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 449539563954176
+    m_Localized: Veriliyor...
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 449985024204800
+    m_Localized: Yeterli Para Yok
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 451108313341952
+    m_Localized: TUM FATURALAR ODENDI
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 451224453619712
+    m_Localized: TUM KIRALAR ODENDI
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 451683314671616
+    m_Localized: TUM LISANSLAR ALINDI
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 452323482902528
+    m_Localized: '{0} Alındı'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 452700798296064
+    m_Localized: YAKINDA GELIYOR
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 459383335395328
+    m_Localized: 'Fatura: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 459502831116288
+    m_Localized: 'Kira: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 1808337851490304
+    m_Localized: 'Kredi: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 1808600498806784
+    m_Localized: TUM TAKSITLER ODENDI
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 1813017847504896
+    m_Localized: Geri Ödeme
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 4697101196173312
+    m_Localized: 'Calısan: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5028605617086464
+    m_Localized: DAHA FAZLA CALISAN YAKINDA GELIYOR
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5028907401453568
+    m_Localized: Kasiyer {0}
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5029127048765440
+    m_Localized: Alısverisi otomatiklestirir
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5029385090736128
+    m_Localized: Ise Al
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5029472638443520
+    m_Localized: Kov
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5030805105909760
+    m_Localized: 'Günlük maas: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5030965483511808
+    m_Localized: 'Ise alım bedeli: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5031201052401664
+    m_Localized: 'Alısveris tamamla: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5040377703014400
+    m_Localized: DEPO KILITLI
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5040604530974720
+    m_Localized: DEPO SATIN ALINDI
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5040758667452416
+    m_Localized: Depo magazanın yanında bulunuyor.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5040951295057920
+    m_Localized: DEPO GENISLEMELERI VE EKSTRA ICERIK YAKINDA GELIYOR
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5041278396243968
+    m_Localized: BANKA
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5041422139236352
+    m_Localized: Krediler
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5041541882421248
+    m_Localized: Ödemeler
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5041997174120448
+    m_Localized: KILITLI
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5042342713466880
+    m_Localized: Günlük Faiz
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5042467322044416
+    m_Localized: Geri Ödeme
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5042571818934272
+    m_Localized: Günlük Ödeme
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5042716098797568
+    m_Localized: Kredi Vadesi
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5043185596604416
+    m_Localized: Kredi Al
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5043319294238720
+    m_Localized: Zaten Kullanımda
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5043468737290240
+    m_Localized: Kalan Ödeme
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5043591932387328
+    m_Localized: Kalan Ödeme Sayısı
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5043708387237888
+    m_Localized: Erken Ödeme Tutarı
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5043858761424896
+    m_Localized: Erken Öde
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5044323091849216
+    m_Localized: Geç Ödeme Faizi
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5045498658791424
+    m_Localized: KREDI DETAYI
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5045639847452672
+    m_Localized: Kullanılan Kredi
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5045829278998528
+    m_Localized: Kalan Ödemeler
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5046186134577152
+    m_Localized: Toplam Borc
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5055601453670400
+    m_Localized: Kira
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 10475959933575168
+    m_Localized: TUM ALANLAR ALINDI
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 12217935603277824
+    m_Localized: Depo Görevlisi {0}
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 12218350193451008
+    m_Localized: Rafları doldurur
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 12218486961315840
+    m_Localized: 'Depo Rafı Al: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  references:
+    version: 2
+    RefIds: []

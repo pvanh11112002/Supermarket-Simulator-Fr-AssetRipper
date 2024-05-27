@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 022389489fd3e17e656be6656e984293, type: 3}
+  m_Name: VLBConfigOverride
+  m_EditorClassIdentifier:
+  geometryOverrideLayer: 1
+  geometryLayerID: 1
+  geometryTag: Untagged
+  geometryRenderQueue: 3000
+  geometryRenderQueueHD: 3100
+  m_RenderPipeline: 1
+  m_RenderingMode: 1
+  ditheringFactor: 0
+  useLightColorTemperature: 1
+  sharedMeshSides: 24
+  sharedMeshSegments: 5
+  hdBeamsCameraBlendingDistance: 0.5
+  urpDepthCameraScriptableRendererIndex: -1
+  globalNoiseScale: 0.5
+  globalNoiseVelocity: {x: 0.07, y: 0.18, z: 0.05}
+  fadeOutCameraTag: MainCamera
+  noiseTexture3D: {fileID: 11700000, guid: cba4e05df7f6ca04887f5782d78726db, type: 2}
+  dustParticlesPrefab: {fileID: 198774941077032259, guid: 5020bda0784627f45a7673103d16f30c, type: 2}
+  ditheringNoiseTexture: {fileID: 2800000, guid: 758d50b6952dce44fa1cbde50899e8bc, type: 3}
+  jitteringNoiseTexture: {fileID: 2800000, guid: bb868fca2f05b134986b075a5661284f, type: 3}
+  featureEnabledColorGradient: 1
+  featureEnabledDepthBlend: 1
+  featureEnabledNoise3D: 1
+  featureEnabledDynamicOcclusion: 1
+  featureEnabledMeshSkewing: 1
+  featureEnabledShaderAccuracyHigh: 1
+  featureEnabledShadow: 1
+  featureEnabledCookie: 1
+  m_RaymarchingQualities:
+  - name: Fast
+    stepCount: 5
+    _UniqueID: 1
+  - name: Balanced
+    stepCount: 10
+    _UniqueID: 2
+  - name: High
+    stepCount: 20
+    _UniqueID: 3
+  m_DefaultRaymarchingQualityUniqueID: 2
+  pluginVersion: 20103
+  _DummyMaterial: {fileID: 2100000, guid: c3abea4a8ccb0944183d31bc85b34824, type: 2}
+  _DummyMaterialHD: {fileID: 2100000, guid: ae514b4293b96334e8c229553a43d07c, type: 2}
+  _BeamShader: {fileID: 4800000, guid: 4f4f769fd5ef27143871619597e691a7, type: 3}
+  _BeamShaderHD: {fileID: 4800000, guid: 9aeae73eae6d19c4e9722d73f203ad99, type: 3}

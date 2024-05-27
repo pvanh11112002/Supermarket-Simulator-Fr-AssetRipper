@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Daily Statistics_de
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 3103d35a5bbfc5447993b59f713c2677, type: 2}
+  m_Metadata:
+    m_Items:
+      Array: []
+  m_TableData:
+  - m_Id: 297196167168
+    m_Localized: TAGESSTATISTIK
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 437894094848
+    m_Localized: Kunden
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 512309436416
+    m_Localized: 'Zufriedene Kunden:'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 605825638400
+    m_Localized: 'Produkte Nicht Gefunden:'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 709563359232
+    m_Localized: 'Fanden die Produkte zu teuer:'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 805235433472
+    m_Localized: 'Zu Wenig Wechselgeld:'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 893064159232
+    m_Localized: 'Insgesamte Kunden:'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 984638398464
+    m_Localized: Supermarktlevel
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 1079190593536
+    m_Localized: 'Supermarktpunkte:'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 1157452111872
+    m_Localized: Einkommen
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 1303220953088
+    m_Localized: "Einkommen:\n"
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 1382317137920
+    m_Localized: 'Bestellkosten:'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 1509245165568
+    m_Localized: 'Erweiterungskosten:'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 1654108037120
+    m_Localized: 'Miete:'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 1732134674432
+    m_Localized: 'Rechnungen:'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 1819845959680
+    m_Localized: 'Insgesamter Profit:'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 1927358554112
+    m_Localized: 'Guthaben:'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 2044786483200
+    m_Localized: BANKROTT
+    m_Metadata:
+      m_Items:
+        Array: []
+  references:
+    version: 2
+    RefIds: []

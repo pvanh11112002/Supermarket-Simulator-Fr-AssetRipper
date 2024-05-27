@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: InGame_pt-PT
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: pt-PT
+  m_SharedData: {fileID: 11400000, guid: 4b83eeca1e2caa14b99278d101808d1b, type: 2}
+  m_Metadata:
+    m_Items:
+      Array: []
+  m_TableData:
+  - m_Id: 727280099328
+    m_Localized: Lucro
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 592127041536
+    m_Localized: Preço
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 50617229312
+    m_Localized: INSIRA O PREÇO
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 458270023680
+    m_Localized: Custo Médio
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 466271598911488
+    m_Localized: Nível da Loja {0}
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 489272721645568
+    m_Localized: 'Nível da Loja Necessário: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 505924620230656
+    m_Localized: 'PREÇO DE MERCADO: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 13797206494912512
+    m_Localized: 'Armazenamento necessário: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  references:
+    version: 2
+    RefIds: []

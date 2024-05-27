@@ -1,0 +1,464 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Computer_ko-KR
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: ko-KR
+  m_SharedData: {fileID: 11400000, guid: 69c56737b186ea04d80478f924e7c676, type: 2}
+  m_Metadata:
+    m_Items:
+      Array: []
+  m_TableData:
+  - m_Id: 61639860224
+    m_Localized: 슈퍼마켓
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 197216542720
+    m_Localized: 관리
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 470118932480
+    m_Localized: 제품
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 577983848448
+    m_Localized: 가구
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 781776691200
+    m_Localized: 검색...
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 1026195562496
+    m_Localized: 상품을 찾을 수 없습니다
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 3024026443776
+    m_Localized: 디스플레이
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 3199109275648
+    m_Localized: 단가
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 3406232395776
+    m_Localized: 수량
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 3507449339904
+    m_Localized: 총계
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 3613896581120
+    m_Localized: 장바구니에 추가
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5234273656832
+    m_Localized: 카트
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5360497041408
+    m_Localized: 주문
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5455066013696
+    m_Localized: 배송
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5744082919424
+    m_Localized: 잔액
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5821308444672
+    m_Localized: 잔여
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5917668384768
+    m_Localized: 구매
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 6003437707264
+    m_Localized: 21시 이후 닫힘
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 6173869056000
+    m_Localized: 제품명
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 6309261189120
+    m_Localized: 단위
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 6792403066880
+    m_Localized: 라이선스
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 6891124400128
+    m_Localized: 계산서
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 7016081104896
+    m_Localized: 성장
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 7109135933440
+    m_Localized: 고용
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 7217348976640
+    m_Localized: 저장
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 7470303256576
+    m_Localized: 맞춤화
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 7670732267520
+    m_Localized: 아래 제품을 판매하려면이 라이선스를 구입하십시오
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 8182085033984
+    m_Localized: 명세서
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 8316604751872
+    m_Localized: 임대료
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 8516555612160
+    m_Localized: 계산서
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 8599388921856
+    m_Localized: 계산서 날짜
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 8701742522368
+    m_Localized: 만기일
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 9127011393536
+    m_Localized: 지불하다
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 9432323170304
+    m_Localized: 귀하의 슈퍼마켓을 확장하려면이 섹션을 구입하십시오
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 9629308657664
+    m_Localized: '- <color=#81FFBC>4x4m</color>로 확장하기'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 447444047732736
+    m_Localized: 체크아웃
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 448184405303296
+    m_Localized: 현금 등록기
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 448310360252416
+    m_Localized: 받음
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 448580662173696
+    m_Localized: 잔돈
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 449539563954176
+    m_Localized: 주는 중...
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 449985024204800
+    m_Localized: 돈 부족
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 451108313341952
+    m_Localized: 모든 계산서 지불 완료
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 451224453619712
+    m_Localized: 모든 임대료 지불 완료
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 451683314671616
+    m_Localized: 모든 라이선스 구매 완료
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 452323482902528
+    m_Localized: '구매함: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 452700798296064
+    m_Localized: 곧 출시 예정
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 459383335395328
+    m_Localized: '계산서: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 459502831116288
+    m_Localized: '임대료: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 4697101196173312
+    m_Localized: '직원: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 1808337851490304
+    m_Localized: '대출: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 1808600498806784
+    m_Localized: 모든 할부금 결제
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 1813017847504896
+    m_Localized: 상환
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5028605617086464
+    m_Localized: 더 많은 직원이 곧 합류할 예정입니다.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5028907401453568
+    m_Localized: 계산원 {0}
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5029127048765440
+    m_Localized: 결제 자동화
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5029385090736128
+    m_Localized: 채용
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5029472638443520
+    m_Localized: 화재
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5030805105909760
+    m_Localized: '일급입니다: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5030965483511808
+    m_Localized: '고용 비용: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5031201052401664
+    m_Localized: '결제를 완료했습니다: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5040377703014400
+    m_Localized: 저장소가 잠겨 있습니다.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5040604530974720
+    m_Localized: 구매한 스토리지
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5040758667452416
+    m_Localized: 저장소는 스토어 옆에 있습니다.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5040951295057920
+    m_Localized: 스토리지 확장 및 더 많은 콘텐츠가 곧 제공될 예정입니다.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5041278396243968
+    m_Localized: 은행
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5041422139236352
+    m_Localized: 대출
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5041541882421248
+    m_Localized: 결제
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5041997174120448
+    m_Localized: 잠김
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5042342713466880
+    m_Localized: 일일 관심사
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5042467322044416
+    m_Localized: 반품 결제
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5042571818934272
+    m_Localized: 일일 결제
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5042716098797568
+    m_Localized: 대출 기간
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5043185596604416
+    m_Localized: 대출 받기
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5043319294238720
+    m_Localized: 이미 촬영
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5043468737290240
+    m_Localized: 남은 결제 금액
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5043591932387328
+    m_Localized: 남은 결제 횟수
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5043708387237888
+    m_Localized: 조기 상환 금액
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5043858761424896
+    m_Localized: 조기 상환
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5044323091849216
+    m_Localized: 결제 연체료
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5045498658791424
+    m_Localized: 대출 세부 정보
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5045639847452672
+    m_Localized: 받은 대출
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5045829278998528
+    m_Localized: 남은 결제 금액
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5046186134577152
+    m_Localized: 총 부채
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5055601453670400
+    m_Localized: 임대
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 10475959933575168
+    m_Localized: 모든 섹션을 구매했습니다
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 12217935603277824
+    m_Localized: 재입고 {0}
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 12218486961315840
+    m_Localized: '구매 랙: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 12218350193451008
+    m_Localized: 선반 재입고
+    m_Metadata:
+      m_Items:
+        Array: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,464 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Computer_zh-CN
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: zh-CN
+  m_SharedData: {fileID: 11400000, guid: 69c56737b186ea04d80478f924e7c676, type: 2}
+  m_Metadata:
+    m_Items:
+      Array: []
+  m_TableData:
+  - m_Id: 61639860224
+    m_Localized: 市场
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 197216542720
+    m_Localized: 管理
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 470118932480
+    m_Localized: 产品
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 577983848448
+    m_Localized: 家具
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 781776691200
+    m_Localized: 搜索...
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 1026195562496
+    m_Localized: 无法找到此产品
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 3024026443776
+    m_Localized: 上架
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 3199109275648
+    m_Localized: 单价
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 3406232395776
+    m_Localized: 数量
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 3507449339904
+    m_Localized: 总数
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 3613896581120
+    m_Localized: 加入购物单
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5234273656832
+    m_Localized: 购物单
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5360497041408
+    m_Localized: 下单
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5455066013696
+    m_Localized: 运输
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5744082919424
+    m_Localized: 余额
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5821308444672
+    m_Localized: 剩余
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5917668384768
+    m_Localized: 订购
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 6003437707264
+    m_Localized: 下午9点后结束营业
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 6173869056000
+    m_Localized: 商品名称
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 6309261189120
+    m_Localized: 单位
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 6792403066880
+    m_Localized: 执照
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 6891124400128
+    m_Localized: 账单
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 7016081104896
+    m_Localized: 成长
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 7109135933440
+    m_Localized: 聘请
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 7217348976640
+    m_Localized: 仓库
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 7470303256576
+    m_Localized: 客制化
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 7670732267520
+    m_Localized: 购买此执照可解锁以下商品出售
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 8182085033984
+    m_Localized: 账单
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 8316604751872
+    m_Localized: 租金
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 8516555612160
+    m_Localized: 账单
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 8599388921856
+    m_Localized: 账单日期
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 8701742522368
+    m_Localized: 截止日期
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 9127011393536
+    m_Localized: 付款
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 9432323170304
+    m_Localized: 购买此区域以便扩建你的超市
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 9629308657664
+    m_Localized: '- 扩建至 <color=#81FFBC>4x4m</color>'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 447444047732736
+    m_Localized: 结账
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 448184405303296
+    m_Localized: 收银机
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 448310360252416
+    m_Localized: 收取
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 448580662173696
+    m_Localized: 找零
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 449539563954176
+    m_Localized: 给予
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 449985024204800
+    m_Localized: 不够现金
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 451108313341952
+    m_Localized: 所有账单已付清
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 451224453619712
+    m_Localized: 所有租金已付清
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 451683314671616
+    m_Localized: 购买所有执照
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 452323482902528
+    m_Localized: 购买 {0}
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 452700798296064
+    m_Localized: 尽请期待
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 459383335395328
+    m_Localized: '账单: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 459502831116288
+    m_Localized: 租金：{0}
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 4697101196173312
+    m_Localized: '员工: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 1808337851490304
+    m_Localized: '贷款: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 1808600498806784
+    m_Localized: 所有贷款已付清
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 1813017847504896
+    m_Localized: 还款
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5028605617086464
+    m_Localized: 更多员工正在路上
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5028907401453568
+    m_Localized: 收银员 {0}
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5029127048765440
+    m_Localized: 自动结账
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5029385090736128
+    m_Localized: 聘请
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5029472638443520
+    m_Localized: 开除
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5030805105909760
+    m_Localized: '日薪: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5030965483511808
+    m_Localized: '聘请成本: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5031201052401664
+    m_Localized: '已结账: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5040377703014400
+    m_Localized: 仓库未解锁
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5040604530974720
+    m_Localized: 购买仓库
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5040758667452416
+    m_Localized: 仓库就在商店旁
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5040951295057920
+    m_Localized: 仓库扩建和更多内容尽请期待
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5041278396243968
+    m_Localized: 银行
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5041422139236352
+    m_Localized: 贷款
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5041541882421248
+    m_Localized: 款项
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5041997174120448
+    m_Localized: 未解锁
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5042342713466880
+    m_Localized: 每日利息
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5042467322044416
+    m_Localized: 退货款项
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5042571818934272
+    m_Localized: 每日款项
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5042716098797568
+    m_Localized: 贷款期限
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5043185596604416
+    m_Localized: 贷款
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5043319294238720
+    m_Localized: 已经采取
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5043468737290240
+    m_Localized: 剩余款项
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5043591932387328
+    m_Localized: 剩余款项次数
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5043708387237888
+    m_Localized: 提前还清金额
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5043858761424896
+    m_Localized: 尽早还清款项
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5044323091849216
+    m_Localized: 滞纳金
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5045498658791424
+    m_Localized: 贷款详情
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5045639847452672
+    m_Localized: 所借贷款
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5045829278998528
+    m_Localized: 剩余款项
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5046186134577152
+    m_Localized: 总债务
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 5055601453670400
+    m_Localized: 租金
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 10475959933575168
+    m_Localized: 购买所有区域
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 12217935603277824
+    m_Localized: 补货员 {0}
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 12218486961315840
+    m_Localized: '购买货架: {0}'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 12218350193451008
+    m_Localized: 补货
+    m_Metadata:
+      m_Items:
+        Array: []
+  references:
+    version: 2
+    RefIds: []

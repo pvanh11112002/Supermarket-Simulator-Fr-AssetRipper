@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Interaction Warnings_ko-KR
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: ko-KR
+  m_SharedData: {fileID: 11400000, guid: 964685d490158f14d9a927c9002310ec, type: 2}
+  m_Metadata:
+    m_Items:
+      Array: []
+  m_TableData:
+  - m_Id: 37115764736
+    m_Localized: '{0} 부족한 거스름돈'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 17458958540800
+    m_Localized: '{0} 제품은 {1}에 놓여져야 합니다'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 17721383559168
+    m_Localized: '{0} 제품은 동일해야 합니다'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 17827390398464
+    m_Localized: '{0} 디스플레이가 가득 참'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 18038594576384
+    m_Localized: '{0} 상자가 가득 참'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 18141375995904
+    m_Localized: '{0} 여기에 던질 수 없음'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 18336138502144
+    m_Localized: '{0} 상자 크기가 일치하지 않음'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 3309744060473344
+    m_Localized: '{0}결제 금액이 잘못되었습니다.'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 9096696135262208
+    m_Localized: '{0} 랙이 꽉 찼습니다.'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 11765365181644800
+    m_Localized: '{0} 제품이 있을 때 레이블을 제거할 수 없습니다.'
+    m_Metadata:
+      m_Items:
+        Array: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4817c86f514600641dd3cca7b318f8c3, type: 3}
+  m_Name: 2_Restocker
+  m_EditorClassIdentifier:
+  ID: 2
+  RestockerName: Restocker 2
+  DailyWage: 90
+  HiringCost: 100
+  RackGoalToUnlock: 6
+  RequiredStoreLevel: 22
+  RestockerPrefab: {fileID: 114480403641108826, guid: b2bdc2fe668301345a36d875378d4f9c, type: 2}

@@ -1,0 +1,18 @@
+public enum InteractactableType
+{
+	BOX = 0,
+	MOP = 1,
+	ORDER_BASKET = 2,
+	CHECKOUT = 3,
+	FURNITURE = 4,
+	ONCE = 5,
+	PRICING = 6,
+	COMPUTER = 7,
+	LIGHT_SWITCH = 8,
+	FURNITURE_BOX = 9,
+	DOOR = 10,
+	STORE_STATUS = 11,
+	DISPLAY = 12,
+	SLOT = 13,
+	RACK = 14
+}

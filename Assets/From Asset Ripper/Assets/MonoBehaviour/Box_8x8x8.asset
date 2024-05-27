@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a80f23bcad05aabb096bb27a21d88470, type: 3}
+  m_Name: Box_8x8x8
+  m_EditorClassIdentifier:
+  ID: 1
+  BoxPrefab: {fileID: 114846697909207657, guid: 7629d64f607867d468c146ff9bd57932, type: 2}
+  BoxSize: 0
+  PositionOffset: {x: 0, y: 0.016, z: -0.078}
+  GridLayout:
+    boxSize: 0
+    boxCount: 18
+    firstBoxPosition: {x: 0.215, y: 0, z: 0.3}
+    boxAngle: {x: 0, y: 180, z: 0}
+    spacing: {x: 0.23, y: 0.24, z: -0.25}
+    itemPlacement: {x: 3, y: 3}
+    scaleMultiplier: 0.97

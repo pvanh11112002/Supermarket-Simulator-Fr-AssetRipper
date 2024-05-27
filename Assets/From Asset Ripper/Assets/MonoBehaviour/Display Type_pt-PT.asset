@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Display Type_pt-PT
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: pt-PT
+  m_SharedData: {fileID: 11400000, guid: 78d7a95be3156654a991e07eb6a1a1c2, type: 2}
+  m_Metadata:
+    m_Items:
+      Array: []
+  m_TableData:
+  - m_Id: 24260222976
+    m_Localized: Congelador
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 90916102144
+    m_Localized: Frigorífico
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 322718507008
+    m_Localized: Caixa
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 376632090624
+    m_Localized: Prateleira
+    m_Metadata:
+      m_Items:
+        Array: []
+  references:
+    version: 2
+    RefIds: []
